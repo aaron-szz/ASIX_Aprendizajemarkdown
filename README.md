@@ -46,4 +46,7 @@ La evolución de la tecnología ha transformado radicalmente la forma en que int
 ![Imagen](https://github.com/aaron-szz/ASIX_Aprendizajemarkdown/blob/main/salir%20guapo%20en%20fotos-605380757.webp "Titulo opcional")
 
 |Titulo 1 | Titulo 2 | Titulo 3 |
-|-----------|---------------|----------------|
+|-----------|:---------------:|----------------:|
+|SMX2 | CURSO2324 | 200$
+|**ASIX1**|CURSO  2425|33|
+|DAW1|CURSO828282| 222|
