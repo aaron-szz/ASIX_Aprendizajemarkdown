@@ -43,4 +43,7 @@ La evolución de la tecnología ha transformado radicalmente la forma en que int
 
 [Pagina web de Jesuites Bellvitge](https://moodle4.net.fje.edu/mod/assign/view.php?id=57099 "Titulo opcional")
 
-![Imagen]
+![Imagen](https://github.com/aaron-szz/ASIX_Aprendizajemarkdown/blob/main/salir%20guapo%20en%20fotos-605380757.webp "Titulo opcional")
+
+|Titulo 1 | Titulo 2 | Titulo 3 |
+|-----------|---------------|----------------|
