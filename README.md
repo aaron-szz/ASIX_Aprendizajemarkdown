@@ -29,10 +29,6 @@ Los lenguajes de marcas son lenguajes de programación que utilizan etiquetas pa
 
 HTML es el lenguaje estándar utilizado para crear páginas web. Se estructura mediante una serie de etiquetas que definen elementos como encabezados, párrafos, imágenes y enlaces. Un documento HTML básico incluye etiquetas como `<html>`, `<head>`, `<title>`, y `<body>`.
 
-4. Figura 1: Estructura de código HTML
-
-´´´
-
 ```html
 <!DOCTYPE html>
 <html>
@@ -43,9 +39,10 @@ HTML es el lenguaje estándar utilizado para crear páginas web. Se estructura m
     <h1>Hola, mundo!</h1>
     <p>Bienvenido a mi página web.</p>
 </body>
-</html
+</html>
 
-´´´
+ Figura 1: Estructura de código HTML
+
 ---
 
 5. ¿Qué es CSS?
