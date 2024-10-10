@@ -1,16 +1,19 @@
-# ¿Qué es una página web?
+# Evalucacion inicial
+
+---
+1. ¿Qué es una página web?
 
 **Respuesta.**
 
 ---
 
-1. ¿Qué es un servidor web?
+2. ¿Qué es un servidor web?
 
 **Respuesta.**
 
 ---
 
-2. ¿Qué son los lenguajes de marcas? ¿Cuántos conoces?
+3. ¿Qué son los lenguajes de marcas? ¿Cuántos conoces?
 
 **Respuesta.** Enuméralos en una tabla que tenga dos columnas (Nombre, enlace a documentación)
 
@@ -22,24 +25,12 @@
 
 ---
 
-3. ¿Qué es HTML? ¿Sabes cómo se estructura?
+4. ¿Qué es HTML? ¿Sabes cómo se estructura?
 
 **Respuesta.**
 
 4. Figura 1: Estructura de código HTML
 
-```html
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Título de la página</title>
-</head>
-<body>
-    <h1>Hola, mundo!</h1>
-    <p>Bienvenido a mi página web.</p>
-</body>
-</html>
-´´´
 ---
 
 5. ¿Qué es CSS?
@@ -48,10 +39,10 @@
 
 ---
 
-5. ¿Sabes cómo funciona un navegador web? Describe brevemente el proceso que se sigue para visualizar una página web.
+6. ¿Sabes cómo funciona un navegador web? Describe brevemente el proceso que se sigue para visualizar una página web.
 
 **Respuesta.**
 
 ---
 
-6. Figura 2: Esquema de peticiones HTML
+7. Figura 2: Esquema de peticiones HTML
