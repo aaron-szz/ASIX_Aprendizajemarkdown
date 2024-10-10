@@ -40,13 +40,12 @@ HTML (HyperText Markup Language) es el lenguaje estándar para crear páginas we
     <p>Bienvenido a mi página web.</p>
 </body>
 </html>
-
+---
 
 5. ¿Qué es CSS?
 
 CSS es un lenguaje utilizado para describir la presentación de un documento HTML. Permite definir estilos como colores, fuentes y disposición de los elementos, separando así el contenido de su apariencia.
 
----
 
 5. ¿Sabes cómo funciona un navegador web? Describe brevemente el proceso que se sigue para visualizar una página web.
 
@@ -58,6 +57,5 @@ Cuando un usuario ingresa una URL, el navegador sigue este proceso:
 - Renderizado: El navegador procesa el HTML y aplica CSS para mostrar la página visualmente.
 - Interacción: El usuario puede interactuar con la página a través de enlaces y formularios.
 
----
 
 6. Figura 2: Esquema de peticiones HTML
