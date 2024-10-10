@@ -40,7 +40,7 @@ HTML es el lenguaje estándar utilizado para crear páginas web. Se estructura m
     <p>Bienvenido a mi página web.</p>
 </body>
 </html>
-
+```
  Figura 1: Estructura de código HTML
 
 ---
