@@ -28,6 +28,17 @@
 
 4. Figura 1: Estructura de código HTML
 
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Título de la página</title>
+</head>
+<body>
+    <h1>Hola, mundo!</h1>
+    <p>Bienvenido a mi página web.</p>
+</body>
+</html> ´´´
 ---
 
 5. ¿Qué es CSS?
