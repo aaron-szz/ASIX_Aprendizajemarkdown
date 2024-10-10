@@ -47,13 +47,18 @@ HTML es el lenguaje estándar utilizado para crear páginas web. Se estructura m
 
 5. ¿Qué es CSS?
 
-**Respuesta.**
+CSS es un lenguaje utilizado para describir la presentación de un documento HTML. Permite definir estilos como colores, fuentes y disposición de los elementos, separando así el contenido de su apariencia.
 
 ---
 
 6. ¿Sabes cómo funciona un navegador web? Describe brevemente el proceso que se sigue para visualizar una página web.
+Cuando un usuario ingresa una URL, el navegador sigue este proceso:
 
-**Respuesta.**
+- Resolución de DNS: Traduce la URL a una dirección IP.
+- Solicitud HTTP: Envía una solicitud al servidor web para el recurso deseado.
+- Respuesta del servidor: El servidor envía el recurso (generalmente un archivo HTML) junto con otros archivos necesarios (CSS, imágenes, etc.).
+- Renderizado: El navegador procesa el HTML y aplica CSS para mostrar la página visualmente.
+- Interacción: El usuario puede interactuar con la página a través de enlaces y formularios.
 
 ---
 
