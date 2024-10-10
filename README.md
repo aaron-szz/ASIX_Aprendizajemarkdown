@@ -38,7 +38,8 @@
     <h1>Hola, mundo!</h1>
     <p>Bienvenido a mi página web.</p>
 </body>
-</html> ´´´
+</html>
+´´
 ---
 
 5. ¿Qué es CSS?
